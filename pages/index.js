@@ -13,7 +13,15 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+ <!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+app.src = 'https://www.speakpipe.com/loader/yl3qxqnpoatffff2lmcvz91oitpl0b4d.js';
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code -->
         </p>
       </main>
 
